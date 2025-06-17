@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/your-username/wcpv-zero-commission-handler
  * Description: Handles zero-value commissions in WooCommerce Product Vendors by automatically marking them as void to prevent payout attempts.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: nicw
  * Author URI: https://yourwebsite.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
